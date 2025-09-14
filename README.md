@@ -31,13 +31,13 @@ The dataset contains information about:
 🛠️ SQL Concepts Used
 
 Joins (INNER JOIN, LEFT JOIN)
-
 Aggregate Functions (COUNT, SUM, AVG, ROUND)
-
 GROUP BY & HAVING
-
 Window Functions (RANK, DENSE_RANK, ROW_NUMBER, Moving Averages)
-
 CTEs (WITH clauses)
-
 String & Date functions
+
+📌 Author:
+
+👤 Anuraag Kaushal
+🔗 LinkedIn Profile:www.linkedin.com/in/anuraagkaushal-analyst
